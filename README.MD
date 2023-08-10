@@ -55,7 +55,7 @@ https://node-dep.onrender.com/doc
 
 ## Feedback
 
-If you have any feedback, please contact us at eyupinan08@gmail.com.
+If you have any feedback, please contact us at eyupinan08@gmail.com
 
 
 ## Lisans
